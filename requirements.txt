@@ -1,0 +1,6 @@
+psycopg2-binary
+python-dotenv
+urllib3
+flask
+flask_sqlalchemy
+osirisvalidator
